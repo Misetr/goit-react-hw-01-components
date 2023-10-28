@@ -12,5 +12,5 @@ const Friends = ({ friendsList }) => {
   </ul>
   
 }
-//  fix page 
+
 export default Friends
